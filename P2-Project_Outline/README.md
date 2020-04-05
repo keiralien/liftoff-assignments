@@ -7,11 +7,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a tracking app for cooking recipes. I've wanted something I can use to store and track recipes
+that I don't have to use on my phone. The app will store recipe information including ingredients, directions
+and serving information. Recipes can be assigned a name, description, and various categories. Recipes can then
+be searched by name, category or ingredient and display the information appropriately. It will have a random 
+function to let a user return an unselected recipe. 
 ### Features
-Include Features here
+Users: A user will need to create an account in order to store recipes. Their account page will have a list of 
+all their recipes.
+    
+Entry: Users can enter enter recipes with as little information as a name.
+
+Search: Users will able to search through their recipes using a variety of criteria.
+
 ### Technologies
-Include Technologies here
+Java
+
+Spring Boot
+
+MySQL
+
+Hibernate
+
+Thymeleaf templates
+
+JavaScript
+
+CSS
+
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
