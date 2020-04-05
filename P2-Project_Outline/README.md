@@ -12,6 +12,7 @@ that I don't have to use on my phone. The app will store recipe information incl
 and serving information. Recipes can be assigned a name, description, and various categories. Recipes can then
 be searched by name, category or ingredient and display the information appropriately. It will have a random 
 function to let a user return an unselected recipe. 
+
 ### Features
 Users: A user will need to create an account in order to store recipes. Their account page will have a list of 
 all their recipes.
@@ -36,6 +37,8 @@ JavaScript
 CSS
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to scrape recipe information from existing websites so users don't have to manually enter recipes found
+on the web.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YgnK6cfe/recipe-storage
