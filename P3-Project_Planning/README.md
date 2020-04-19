@@ -10,12 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 Pages - See https://github.com/keiralien/liftoff-assignments/blob/master/P3-Project_Planning/P3%20Wireframes.pdf:
 
-Landing
-Add/Edit Recipe
-Browse by Category/Title (Index)
-View Recipe
-Search Results
-Add Category
+* Landing
+* Add/Edit Recipe
+* Browse by Category/Title (Index)
+* View Recipe
+* Search Results
+* Add Category
 
 
 ### Project Tracker
