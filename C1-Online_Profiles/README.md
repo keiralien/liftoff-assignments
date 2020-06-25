@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/keiralien
  
 ### LinkedIn
-https://www.linkedin.com/in/jen-murphy-b8296a1a5?trk=people-guest_people_search-card
+https://www.linkedin.com/in/jen-murphy-b8296a1a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSWSwSR8xStulJIZ9iCib7g%3D%3D
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
